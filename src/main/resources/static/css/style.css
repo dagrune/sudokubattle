@@ -1,0 +1,33 @@
+.divTable
+{
+    width:100%;
+    display:block;
+    height:100%!important;
+    border:1px solid #F60;
+    background-color:transparent;
+    margin:0px;
+    line-Height:33px;
+}
+
+.divRow
+{
+    width:100%;
+    display:table;
+    position:relative;
+    color:#000000;
+}
+
+.divCell
+{
+    border:1px solid #F60;
+    width:10.61111111111111%;
+    display:block;
+    position:relative;
+    background-color:cornflowerblue;
+    color:#000000;
+    font-size:12px;
+    float:left;
+    text-align:center;
+    vertical-align:middle;
+
+}

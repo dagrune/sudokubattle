@@ -15,7 +15,7 @@
     <name>sudokuBattle5</name>
     <description>Demo project for Spring Boot</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -44,24 +44,12 @@
     <build>
         <plugins>
             <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-                <version>3.0.5</version>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>run</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.9.0</version>
                 <configuration>
-                    <target>11</target> <!-- Change this to a compatible Java version -->
-                    <source>11</source> <!-- Change this to a compatible Java version -->
+                    <target>17</target> <!-- Change this to a compatible Java version -->
+                    <source>17</source> <!-- Change this to a compatible Java version -->
                 </configuration>
             </plugin>
         </plugins>

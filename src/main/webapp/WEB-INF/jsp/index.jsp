@@ -2,19 +2,13 @@
 <html>
 <head>
     <title>index</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-<%
-double num = Math.random();
-if (num > 0.95) {
-%>
-<h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
-<%
-} else {
-%>
-<h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
-<%
-}
-%>
+<div class="navbar">
+    <a href="#home">Home</a>
+    <a href="#sudoku">Sudoku</a>
+</div>
+
 </body>
 </html>

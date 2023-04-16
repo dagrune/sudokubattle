@@ -6,8 +6,8 @@
 </head>
 <body>
 <div class="navbar">
-    <a href="#home">Home</a>
-    <a href="#sudoku">Sudoku</a>
+    <a href="/">Home</a>
+    <a href="/sudoku">Sudoku</a>
 </div>
 
 </body>

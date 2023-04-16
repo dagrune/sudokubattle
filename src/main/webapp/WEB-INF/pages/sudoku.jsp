@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>sudoku</title>
-    <link href="css/style.css" rel="stylesheet" type="text/css"/>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
     <%
@@ -50,69 +50,69 @@
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
             <div class="divTableRow">
                 <div class="divTableCell">x</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
+                <div class="divTableCell">x</div>
             </div>
         </div>
     </div>

@@ -16,8 +16,8 @@
     <div class="divTable">
         <div class="divTableBody">
             <div class="divTableRow">
-                <div class="divTableCell">&nbsp;</div>
-                <div class="divTableCell">&nbsp;</div>
+                <div class="divTableCell">0</div>
+                <div class="divTableCell">1</div>
                 <div class="divTableCell">&nbsp;</div>
                 <div class="divTableCell">&nbsp;</div>
                 <div class="divTableCell">&nbsp;</div>

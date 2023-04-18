@@ -8,6 +8,7 @@
 <div class="navbar">
     <a href="/">Home</a>
     <a href="/sudoku">Sudoku</a>
+    <a href="/login">Login</a>
 </div>
 <h1>Indexsiden</h1>
 

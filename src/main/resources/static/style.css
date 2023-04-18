@@ -22,10 +22,9 @@ body {margin:0;}
 }
 
 /* SUDOKU */
-/* DivTable.com */
 .divTable{
     display: table;
-    width: 50%;
+    /*width: 50%;*/
     border: 3px solid red;
 }
 
@@ -41,4 +40,5 @@ body {margin:0;}
     border: 1px solid #999999;
     display: table-cell;
     padding: 3px 10px;
+   
 }

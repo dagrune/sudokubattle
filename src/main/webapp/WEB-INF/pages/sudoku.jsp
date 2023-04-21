@@ -7,7 +7,6 @@
 <body>
     <%
     String[] x = {"1","9","","3","3","","4","1","2","","","","3","2","","","","","","9","","4","","","4","5","","1","2","","4","","","4","5","","1","2","","4","","","4","5","","1","2","","4","","","4","5","","1","2","","4","","","4","5","","1","2","","4","","","4","5","","1","2","","4","","","4","5",""};
-    String number = "120120";
     %>
     <div class="navbar">
         <a href="/">Home</a>
@@ -18,7 +17,7 @@
     <div class="divTable">
         <div class="divTableBody">
             <div class="divTableRow">
-                <div class="divTableCell cellleft celltop cell1"><%=x[0]%></div>
+                <div class="divTableCell cellleft celltop cell1"><%=x[0] %></div>
                 <div class="divTableCell celltop cell2"><%=x[1]%></div>
                 <div class="divTableCell celltop cell3 cellright"><%=x[2]%></div>
                 <div class="divTableCell celltop cell4"><%=x[3]%></div>

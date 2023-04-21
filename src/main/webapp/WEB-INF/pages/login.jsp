@@ -11,7 +11,7 @@
     <a href="/login">Login</a>
 </div>
 
-<form id="login" action="login" method="post">
+<form id="login" action="login.jsp" method="post">
     <label for="username">Username: </label>
     <input type="text" name="username" id="username">
     <br/>

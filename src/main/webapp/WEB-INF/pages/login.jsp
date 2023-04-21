@@ -1,15 +1,8 @@
-<%--
-Created by IntelliJ IDEA.
-User: dagrunestrand
-Date: 17/04/2023
-Time: 21:45
-To change this template use File | Settings | File Templates.
---%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<html>
+<html lang="en">
 <head>
     <title>Login</title>
-    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <link href="css/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
 <div class="navbar">
@@ -19,11 +12,11 @@ To change this template use File | Settings | File Templates.
 </div>
 
 <form id="login" action="login" method="post">
-    <label>Username: </label>
-    <input type="text" name="username">
+    <label for="username">Username: </label>
+    <input type="text" name="username" id="username">
     <br/>
-    <label>Password: </label>
-    <input type="text" name="password">
+    <label for="password">Password: </label>
+    <input type="text" name="password" id="password">
     <br/>
     <button>Submit</button>
 </form>

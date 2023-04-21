@@ -20,7 +20,6 @@ public class LoginController {
             System.out.println("Password = " + credentials.getPassword());
         } else {
             System.out.println("username dont exists");
-
         }
     }
 

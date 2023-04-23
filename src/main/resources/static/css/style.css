@@ -37,6 +37,7 @@ body {
 
 .divTableRow {
     display: table-row;
+    padding-top: 10px;
 }
 
 .divTableCell {
@@ -46,6 +47,7 @@ body {
     height: 40px;
     border: 1px solid grey;
     text-align: center;
+
 }
 
 .cellright {

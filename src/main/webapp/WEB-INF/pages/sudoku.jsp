@@ -15,8 +15,7 @@
         <a href="/login">Login</a>
     </div>
 
-    <div class="divTable">
-        <div class="divTableBody">
+        <form class="divTableBody">
             <div class="divTableRow">
                 <div class="divTableCell cellleft celltop cell1"><%=challenge1.charAt(0)%></div>
                 <div class="divTableCell celltop cell2"><%=challenge1.charAt(1)%></div>
@@ -116,8 +115,8 @@
                 <div class="divTableCell cellbottom cell80"><%=challenge1.charAt(79)%></div>
                 <div class="divTableCell cellbottom cell81 cellright"><%=challenge1.charAt(80)%></div>
             </div>
-        </div>
-    </div>
+        </form>
+
 
 
 </body>

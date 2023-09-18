@@ -17,8 +17,8 @@
 
         <form class="divTableBody">
             <div class="divTableRow">
-                <div class="divTableCell cellleft celltop cell1"><%=challenge1.charAt(0)%></div>
-                <div class="divTableCell celltop cell2"><%=challenge1.charAt(1)%></div>
+                <div><input value="<%=challenge1.charAt(0)%>" class="divTableCell cellleft celltop cell1"></input></div>
+                <div><input value="<%=challenge1.charAt(1)%>" class="divTableCell celltop cell2"></input></div>
                 <div class="divTableCell celltop cell3 cellright"><%=challenge1.charAt(2)%></div>
                 <div class="divTableCell celltop cell4"><%=challenge1.charAt(3)%></div>
                 <div class="divTableCell celltop cell5"><%=challenge1.charAt(4)%></div>

@@ -10,7 +10,7 @@
     <a href="/sudoku">Sudoku</a>
     <a href="/login">Login</a>
 </div>
-<h1>Index</h1>
+<h1>Index1</h1>
 
 </body>
 </html>
